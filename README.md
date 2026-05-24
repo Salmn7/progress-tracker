@@ -43,7 +43,6 @@ Built using vanilla HTML, CSS, and JavaScript.
 
 ## Persistence
 - Uses `localStorage`
-- No backend required
 - Data persists across browser refreshes
 
 ---
