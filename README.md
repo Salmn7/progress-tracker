@@ -40,9 +40,4 @@ Built using vanilla HTML, CSS, and JavaScript.
 - Productivity insights
 - Heatmap activity tracking
 - Progress statistics
-
-## Persistence
-- Uses `localStorage`
-- Data persists across browser refreshes
-
 ---
